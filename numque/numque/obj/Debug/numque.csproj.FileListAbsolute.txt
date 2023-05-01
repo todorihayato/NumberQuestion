@@ -1,0 +1,13 @@
+C:\Users\hayab\source\repos\numque\numque\bin\Debug\numque.exe.config
+C:\Users\hayab\source\repos\numque\numque\bin\Debug\numque.exe
+C:\Users\hayab\source\repos\numque\numque\bin\Debug\numque.pdb
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.Form1.resources
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.Properties.Resources.resources
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.UserControl1.resources
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.csproj.GenerateResource.cache
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.csproj.CoreCompileInputs.cache
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.exe
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.pdb
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.UserControl2.resources
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.UserControl3.resources
+C:\Users\hayab\source\repos\numque\numque\obj\Debug\numque.csproj.AssemblyReference.cache
